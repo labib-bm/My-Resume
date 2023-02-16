@@ -39,6 +39,7 @@ header img{
     margin-bottom: 3%;
 }
 .info-skill{
+    margin: 1%;
     padding: 1%;
     background-color: antiquewhite;
     flex-grow: 4;

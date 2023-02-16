@@ -1,0 +1,71 @@
+body{
+    background-image: url(background.jpg);
+    margin: 2%;
+    text-align: justify;
+}
+header{
+    display: flex;
+    margin-bottom: 2%;
+}
+header h1{
+    font-size: 3em;
+    color:antiquewhite;
+}
+header p{
+    font-size: 2em;
+    color: azure;
+}
+header img{
+    width: 70%;
+    display: -webkit-box;
+    margin-left: auto;
+    margin-right: 3%;
+}
+.naming{
+    margin-top: 5%;
+    padding: 2%;
+}
+.body-section{
+    display: flex;
+}
+.exp-project-edu-add{
+    margin: 1%;
+    padding: 1%;
+    background-color:aliceblue;
+    flex-grow: 6;
+    order: 1;
+}
+.exp-project-edu-add>div{
+    margin-bottom: 3%;
+}
+.info-skill{
+    padding: 1%;
+    background-color: antiquewhite;
+    flex-grow: 4;
+    order: 2;
+}
+.info-skill>div{
+    margin-bottom: 5%;
+}
+header p{
+    font-size: large;
+    text-align: justify;
+}
+.side-border{
+    border-left: 2px solid gray;    
+}
+.projects{
+    font-weight: bold;
+}
+.make-it-in-range{
+    width: 90%;
+}
+.setblock h3,small{
+    display: inline;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.setblock{
+    display: flex;
+    justify-content: space-between;
+}

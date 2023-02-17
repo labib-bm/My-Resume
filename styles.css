@@ -15,12 +15,6 @@ header p{
     font-size: 2em;
     color: azure;
 }
-header img{
-    width: 70%;
-    display: -webkit-box;
-    margin-left: auto;
-    margin-right: 3%;
-}
 .naming{
     margin-top: 5%;
     padding: 2%;

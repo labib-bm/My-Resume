@@ -4,8 +4,9 @@ body{
     text-align: justify;
 }
 header{
-    display: flex;
     margin-bottom: 2%;
+    margin-top: 5%;
+    padding: 2%;
 }
 header h1{
     font-size: 3em;
@@ -14,10 +15,6 @@ header h1{
 header p{
     font-size: 2em;
     color: azure;
-}
-.naming{
-    margin-top: 5%;
-    padding: 2%;
 }
 .body-section{
     display: flex;
